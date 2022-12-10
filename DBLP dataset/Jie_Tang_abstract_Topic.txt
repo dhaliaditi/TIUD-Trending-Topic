@@ -1,0 +1,272 @@
+mining
+text mining+information retrieval
+semantic web
+ontology mapping
+DB
+semantic web/ontology
+visualization/IR
+similarity search/IR
+semantic web/ontology
+semantic web
+table extraction/IR
+keyword extraction/IR
+semantic search/IR
+semantic web
+Normal mesh 
+name disambiguation
+social network extraction/IR
+n/a
+n/a
+Expertise Oriented Search /IR
+researcher profiling
+3D mesh surface modeling
+n/a
+Semantic Web application/ semantic annotation
+
+
+
+name disambiguation
+extraction of a researcher social network
+extracting and mining academic social networks
+academic search
+
+
+directory ontology
+
+n/a
+expertise search in a time-varying social network/IR
+n/a
+
+n/a
+social network
+query-focused summarization/IR
+ontology
+n/a
+ontology/semantic web
+influence in social network
+topic-based citation recommendation
+influence of link
+ontology
+n/a
+n/a
+Social bookmarking tools
+ontology
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+topic-level random walk/IR/text mining
+
+role/expertise identification
+community detection
+Author-Time-Topic model
+Web user profiling/IR
+n/a
+
+influence in social network
+n/a
+image processing/CV
+n/a
+Expertise matching/IR
+n/a
+n/a
+n/a
+Community Question Answering (CQA)/IR
+Community Question Grouping (CQG)
+filtering/recommendation
+filtering/recommendation
+evolutionary communities
+n/a
+predict users mood in social network
+mobile context
+retweet in Twitter
+eliminating terms/text mining
+add display for a query/IR
+sentiment in Twitter
+Social influence
+community detection
+n/a
+topic level expertise search framework
+n/a
+activity-related local entities/IR/recom
+Social influence
+XML
+n/a
+n/a
+social network
+Social influence
+community kernel detection
+subject extraction/IR
+
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+social relationships in a large network
+simultaneously model latent topics from bilingual corpora
+name disambiguation
+n/a
+social influence
+social context summarization for Web documents.
+semantic web usage mining approach for discovering periodic web access patterns/IR
+n/a
+Topic-Level Opinion Influence Model (TOIM) that simultaneously incorporates topic factor, user opinions and social influence in a unified probabilistic model
+n/a
+Expert finding
+social network
+social ties between people can be inferred in large social network
+proposed a prior information enabled topic model-PLDA. 
+n/a
+n/a
+name ambiguity
+n/a
+n/a
+cross-domain collaborations / expertise
+n/a
+classifying the type of social relationships
+n/a
+
+
+dynamic features of social tagging vocabularies
+identify potentially influential literature
+instant social graph search
+n/a
+n/a
+n/a
+
+Expertise matching
+n/a
+social network
+Social influence
+n/a
+n/a
+
+Link prediction and recommendation 
+
+n/a
+n/a
+social influence
+
+XML
+Social influence
+Social influence
+
+automatically detect the subtopics from a given Web document
+
+recommending patent partners
+
+how links are formed in social networks
+Social Analytic Engine (SAE) for large online social networks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

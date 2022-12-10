@@ -1,0 +1,171 @@
+2003	Jie Tang;Juan-Zi Li;Ke-Hong Wang;Yue-Ru Cai	1
+2005	Jie Tang;Hang Li;Yunbo Cao;Zhaohui Tang	8
+2005	Jie Tang;Juanzi Li;Hongjun Lu;Bangyong Liang;Xiaotong Huang;Kehong Wang	8
+2005	Jie Tang;Yong Liang;Zi Li	8
+2005	Kuo Zhang;Jie Tang;JuanZi Li;KeHong Wang	6
+2006	Bangyong Liang;Jie Tang;Juanzi Li;Kehong Wang	8
+2006	Bangyong Liang;Jie Tang;Juanzi Li;Kehong Wang	0
+2006	Jie Tang;Fuyan Zhang	0
+2006	Jie Tang;Juanzi Li;Bangyong Liang;Xiaotong Huang;Yi Li;Kehong Wang	8
+2006	Jie Tang;Mingcai Hong;Juanzi Li;Bangyong Liang	8
+2006	Juanzi Li;Jie Tang;Qiang Song;Peng Xu	8
+2006	Kuo Zhang;Hui Xu;Jie Tang;Juanzi Li	8
+2006	Kuo Zhang;Jie Tang;MingCai Hong;JuanZi Li;Wei Wei	8
+2006	Mingcai Hong;Jie Tang;Juanzi Li	8
+2006	Mingyong Pang;Zhigeng Pan;Jie Tang;Fuyan Zhang	6
+2007	Duo Zhang;Jie Tang;Juanzi Li;Kehong Wang	8
+2007	Jie Tang;Duo Zhang;Limin Yao	8
+2007	Jing Peng;Chang-Jie Tang;Dong-Qing Yang;An-Long Chen;Lei Duan	6
+2007	Jing Peng;Dong-Qing Yang;Chang-Jie Tang;Jing Zhang;Jian-Jun Hu	6
+2007	Juanzi Li;Jie Tang;Jing Zhang;Qiong Luo;Yunhao Liu;Mingcai Hong	8
+2007	Limin Yao;Jie Tang;Juanzi Li	8
+2007	Suyun Li;Jie Tang;Gangshan Wu	6
+2007	Xiang-Yang Li;Shao-Jie Tang;Ophir Frieder	7
+2007	Xin Xin;Juanzi Li;Jie Tang	8
+2007	Zhifeng Gu;Juanzi Li;Jie Tang;Bin Xu;Ruobo Huang	0
+2008	Feng Wang;Juanzi Li;Jie Tang;Jing Zhang;Kehong Wang	8
+2008	Huan Wang;Xiaomin Shi;Yan Li;Heng Chang;Weiliang Chen;Jie Tang;Eduardo Martins	4
+2008	Jie Tang;Jing Zhang;Duo Zhang;Juanzi Li	5
+2008	Jie Tang;Jing Zhang;Limin Yao;Juanzi Li	8
+2008	Jie Tang;Jing Zhang;Limin Yao;Juanzi Li;Li Zhang;Zhong Su	8
+2008	Jie Tang;Ruoming Jin;Jing Zhang	5
+2008	Jing Zhang;Jie Tang;Bangyong Liang;Zi Yang;Sijie Wang;Jingjing Zuo;Juanzi Li	5
+2008	Jing Zhang;Jie Tang;Liu Liu;Juanzi Li	5
+2008	Qian Zhong;Juanzi Li;Jie Tang;Yi Li;Lizhu Zhou	8
+2008	Xin Xin;Juanzi Li;Jie Tang;Qiong Luo	8
+2008	XuFei Mao;Xiang-Yang Li;ShaoJie Tang	7
+2008	Yize Li;Jie Tang	5
+2008	Zhimin Gu;Ninghan Zheng;Jie Tang; Yan Huang	6
+2009	Bo Wang;Jie Tang;Wei Fan;Songcan Chen;Zi Yang;Yanzhu Liu	6
+2009	Cheng Wang;ChangJun Jiang;ShaoJie Tang;Xiang-Yang Li;XianFei Tang	8
+2009	Dewei Chen;Jie Tang;Juanzi Li;Lizhu Zhou	3
+2009	Dewei Chen;Jie Tang;Limin Yao;Juanzi Li;Lizhu Zhou	5
+2009	Feng Shi;Juanzi Li;Jie Tang;Guotong Xie;Hanyu Li	8
+2009	Irwin King;Juanzi Li;Gui-rong Xue;Jie Tang	0
+2009	Jie Tang;Ho-fung Leung;Qiong Luo;Dewei Chen;Jibin Gong	5
+2009	Jie Tang;Jimeng Sun;Chi Wang;Zi Yang	3
+2009	Jie Tang;Jing Zhang	5
+2009	Jie Tang;Jing Zhang;Jeffrey Xu Yu;Zi Yang;Keke Cai;Rui Ma;Li Zhang;Zhong Su	3
+2009	Juanzi Li;Jie Tang;Yi Li;Qiong Luo	8
+2009	Lufeng Mo;Yuan He;Yunhao Liu;Jizhong Zhao;Shao-Jie Tang;Xiang-Yang Li;Guojun Dai	0
+2009	MingJie Tang;YuanChun Zhou;Peng Cui;HaiTing Zhang;LiangL Hu;YuanSheng Hou;BaoPing Yan	0
+2009	Ning Zhang;Yuan Zhang;Jie Tang	4
+2009	Qian Zhong;Hanyu Li;Juanzi Li;Guotong Xie;Jie Tang;Lizhu Zhou;Yue Pan	8
+2009	Qun-Feng Zhu;Lei Huang;Zhan-Bin Hu;Jie Tang	0
+2009	ShaoJie Tang; XuFei Mao; Xiang-Yang Li	0
+2009	ShaoJie Tang;Xiang-Yang Li;Cheng Wang;Ping Xu	0
+2009	ShaoJie Tang;Xiaobing Wu;Xufei Mao;YanWei Wu;Ping Xu;GuiHai Chen;Xiang-Yang Li	0
+2009	Xiang-Yang Li;ShaoJie Tang;Xufei Mao	0
+2009	Xianmei Zhao;Jie Tang;Dongxian Chen	0
+2009	XiaoHua Xu;ShaoJie Tang	Link 0
+2009	XiaoHua Xu;ShiGuang Wang;XuFei Mao;ShaoJie Tang;Ping Xu;Xiang-Yang Li	0
+2009	XiaoHua Xu;ShiGuang Wang;XuFei Mao;ShaoJie Tang;Xiang Yang Li	0
+2009	Zi Yang;Jie Tang;Jing Zhang;Juanzi Li;Bo Gao	5
+2010	Chenhao Tan;Jie Tang;Jimeng Sun;Quan Lin;Fengjiao Wang	3
+2010	Chi Wang;Jiawei Han;Yuntao Jia;Jie Tang;Duo Zhang;Yintao Yu;Jingyi	3
+2010	Daifeng Li;Bing He;Ying Ding;Jie Tang;Cassidy Sugimoto;Zheng Qin;Erjia Yan;Juanzi Li;Tianxi Dong	3
+2010	Jie Tang;Jing Zhang	5
+2010	Jie Tang;Limin Yao;Duo Zhang;Jing Zhang	8
+2010	Jie Tang;Sven Seuken;David C. Parkes	0
+2010	Lixin Shi;Yuhang Zhao;Jie Tang	7
+2010	Lu Liu;Jie Tang;Jiawei Han;Meng Jiang;Shiqiang Yang	3
+2010	MingJie Tang;Weihang Wang;Yexi Jiang;Yuanchun Zhou;Jinyan Li;Peng Cui;Ying Liu;Baoping Yan	0
+2010	Shifeng Hu;Zuhua Fang;Jie Tang;Hongbing Xu;Ying Sun	6
+2010	Wei Wang;Nianke Zong;Jie Tang;Sangarapillai Lambotharan	0
+2010	Wenbin Tang;Jie Tang;Chenhao Tan	8
+2010	Xiang-Yang Li;Yunhao Liu;Shi Li;ShaoJie Tang	0
+2010	Xiang-Yang Li;Zheng Sun;WeiZhao Wang;Xiaowen Chu;ShaoJie Tang;Ping Xu	0
+2010	XiaoHua Xu;ShaoJie Tang;Xufei Mao;Xiang-Yang Li	0
+2010	Yajie Miao;Chunping Li;Jie Tang;Lili Zhao	5
+2010	Yajie Miao;Lili Zhao;Chunping Li;Jie Tang	3
+2010	Yi Cai;Ho-fung Leung;Qing Li;Jie Tang;Juanzi Li	4
+2010	Yi Cai;Ho-fung Leung;Qing Li;Jie Tang;Juanzi Li	4
+2010	Yizhou Sun;Jie Tang;Jiawei Han;Manish Gupta;Bo Zhao	6
+2010	Yu Chen;Chang Jie Tang;Rui Li;Ming Fang Zhu;Chuan Li;Jie Zuo	0
+2010	Yuan Zhang;Jie Tang;Jimeng Sun;Yiran Chen;Jinghai Rao	3
+2010	Yuan Zhang;Ning Zhang;Jie Tang;Jinghai Rao;Wenbin Tang	5
+2010	Zi Yang;Jingyi Guo;Keke Cai;Jie Tang;Juanzi Li;Li Zhang;Zhong Su	3
+2010	Zi Yang;Wei Li;Jie Tang;Juanzi Li	6
+2011	Bo Wang;Zhaonan Li;Jie Tang;Kuo Zhang;Songcan Chen;Liyun Ru	9
+2011	Chenhao Tan;Lillian Lee;Jie Tang;Long Jiang;Ming Zhou;Ping Li	3
+2011	Chi Wang;Jie Tang;Jimeng Sun;Jiawei Han	3
+2011	Daifeng Li;Ying Ding;Cassidy Sugimoto;Bing He;Jie Tang;Erjia Yan;Nan Lin;Zheng Qin;Tianxi Dong	3
+2011	Dan Tao;Xu-Fei Mao;Shao-Jie Tang;Hai-Tao Zhang;Hua-Dong Ma;Hai-Jiang Xie	0
+2011	Jie Tang;Jing Zhang;Ruoming Jin;Zi Yang;Keke Cai;Li Zhang;Zhong Su	5
+2011	Jie Tang;Jun Zhang;Xinyu Geng;Bo Peng	0
+2011	Jie Tang;Ryen W. White;Peter Bailey	8
+2011	Jie Tang;Sen Wu;Bo Gao;Yang Wan	3
+2011	Jie Tang;Shaoshan Liu;Zhimin Gu;Chen Liu;Jean-Luc Gaudiot	0
+2011	Jie Tang;Shaoshan Liu;Zhimin Gu;Chen Liu;Jean-Luc Gaudiot	0
+2011	Jie Tang;Xinyu Ceng;Bo Peng	0
+2011	John Hopcroft;Tiancheng Lou;Jie Tang	3
+2011	Keke Cai;Shenghua Bao;Zi Yang;Jie Tang;Rui Ma;Li Zhang;Zhong Su	3
+2011	Liaoruo Wang;Tiancheng Lou;Jie Tang;John E. Hopcroft	3
+2011	Qiang Meng;Xinyu Geng;Li Yang;Jie Tang;Linlin Dong	8
+2011	Rui Yan;Jie Tang;Xiaobing Liu;Dongdong Shan;Xiaoming Li	9
+2011	Shao-Jie Tang;Xiang-Yang Li;Xufei Mao;Cheng Wang	0
+2011	Shao-Jie Tang;Xufei Mao;Xiang-Yang Li	0
+2011	ShaoJie Tang;Xiang-Yang Li;Xinfa Shen;Jianhui Zhang;Guojun Dai;Sajal K. Das	0
+2011	ShaoJie Tang;XuFei Mao;Xiang-Yang Li;Guojun Dai	0
+2011	Shaoshan Liu;Jie Tang;Chengrui Deng;Xiao-Feng Li;J. -L. Gaudiot	0
+2011	ShiGuang Wang;XuFei Mao;Shao-Jie Tang;XiangYang Li;JiZhong Zhao;Guojun Dai	0
+2011	Wenbin Tang;Honglei Zhuang;Jie Tang	3
+2011	Wim De Smet;Jie Tang;Marie-Francine Moens	5
+2011	Xuezhi Wang;Jie Tang;Hong Cheng;Philip S. Yu	3
+2011	Yueqiu Wang;Jie Tang;Xionger Qiu	0
+2011	Zi Yang;Jie Tang;Juanzi Li;Wenjun Yang	3
+2011	Zi Yang;Keke Cai;Jie Tang;Li Zhang;Zhong Su;Juanzi Li	5
+2012	A. C. M. Fong;Baoyao Zhou;Siu Hui;Jie Tang;Guan Hong	8
+2012	Cheng Bo;Xiang-Yang Li;Jing Yuan;Xiaohua Xu;Yunhao Li;Shao-Jie Tang	0
+2012	Daifeng Li;Xin Shuai;Guozheng Sun;Jie Tang;Ying Ding;Zhipeng Luo	3
+2012	Gustavo A. Chaparro-Baquero;Qi Zhou;Chen Liu;Jie Tang;Shaoshan Liu	0
+2012	Hang Su;Jie Tang;Wanling Hong	3
+2012	Honglei Zhuang;Alvin Chin;Sen Wu;Wei Wang;Xia Wang;Jie Tang	3
+2012	Honglei Zhuang;Jie Tang;Wenbin Tang;Tiancheng Lou;Alvin Chin;Xia Wang	3
+2012	Huan Xia;Juanzi Li;Jie Tang;Marie-Francine Moens	5
+2012	Jamal Yousaf;Juanzi Li;Lu Chen;Jie Tang;Xiaowen Dai;John Du	0
+2012	Jia Jia;Sen Wu;Xiaohui Wang;Peiyun Hu;Lianhong Cai;Jie Tang	0
+2012	Jie Tang;Alvis C. M. Fong;Bo Wang;Jing Zhang	8
+2012	Jie Tang;Bo Wang;Yang Yang;Po Hu;Yanting Zhao;Xinyu Yan;Bo Gao;Minlie Huang;Peng Xu;Weichang Li;Adam K. Usadi	0
+2012	Jie Tang;Nan Zhang;Zhaoyang Li;Bo Yang	0
+2012	Jie Tang;Sen Wu;Jimeng Sun;Hang Su	5
+2012	Jie Tang;Shaoshan Liu;Zhimin Gu;Xiao-Feng Li;Jean-Luc Gaudiot	0
+2012	Jie Tang;Tiancheng Lou;Jon Kleinberg	3
+2012	Jie Tang;Yuan Zhang;Jimeng Sun;Jinhai Rao;Wenjing Yu;Yiran Chen;A. C. M Fong	0
+2012	Lixin Shi;Yuhang Zhao;Jie Tang	0
+2012	Longjun Huang;Jie Tang;Guanyi Li	0
+2012	Nan Lin;Daifeng Li;Ying Ding;Bing He;Zheng Qin;Jie Tang;Juanzi Li;Tianxi Dong	3
+2012	Rui Yan;Congrui Huang;Jie Tang;Yan Zhang;Xiaoming Li	9
+2012	Sen Wu;Jie Tang;Bo Gao	3
+2012	Sen Wu;Zhanpeng Fang;Jie Tang	0
+2012	ShaoJie Tang;Jing Yuan;Xiang-Yang Li	0
+2012	Shaoshan Liu;Jie Tang;Ligang Wang;Xiao-Feng Li;Jean-Luc Gaudiot	0
+2012	Su-Yao Xiao;Bao-Qing Wen;Hao-Yu Zhuang;Jun-Liang Wang;Jie Tang;Hong-Zhang Chen;Xue-Xiang Chen;Yong Cao	0
+2012	Wenbin Tang;Jie Tang;Tao Lei;Chenhao Tan;Bo Gao;Tian Li	8
+2012	XiaoHua Xu;Xiang-Yang Li;Peng-Jun Wan;ShaoJie Tang	0
+2012	Xiaoming Fu;Peter Gloor;Jie Tang	3
+2012	Xin Shuai;Shanshan Chen;Ying Ding;Yuyin Sun;Jerome Busemeyer;Jie Tang	3
+2012	Xufei Mao;Xiaohua Xu;ShaoJie Tang;Xiang-Yang Li	0
+2012	Yan Huang;Zhi-min Gu;Jie Tang;Min Cai;Jianxun Zhang;Ninghan Zheng	0
+2012	Yang Yang;Jie Tang;Jacklyne Keomany;Yanting Zhao;Juanzi Li;Ying Ding;Tian Li;Liangwei Wang	0
+2012	Yuxiao Dong;Jie Tang;Sen Wu;Jilei Tian;Nitesh V. Chawla;Jinghai Rao;Huanhuan Cao	3
+2012	Zhichun Wang;Juanzi Li;Zhigang Wang;Jie Tang	0
+2012	Ziming Zhu; Jie Tang;Sangarapillai Lambotharan; Woon Hau Chin; Zhong Fan	0
+2013	Jie Tang;Chen Liu;Shaoshan Liu;Jean-Luc Gaudiot	0
+2013	Jie Tang;Sen Wu;Jimeng Sun	3
+2013	Jie Tang;Shaoshan Liu;Chen Liu;Yu-Liang Chou	0
+2013	Jie Tang;Shaoshan Liu;Chen Liu;Zhimin Gu;Jean-Luc Gaudiot	0
+2013	Jimeng Sun;Jie Tang	3
+2013	Jing Zhang;Biao Liu;Jie Tang;Ting Chen;Juanzi Li	3
+2013	Juanzi Li;Zhichun Wang;Xiao Zhang;Jie Tang	0
+2013	Lei Hou;Juanzi Li;Xiaoli Li;Jiangfeng Qu;Xiaofei Guo;Ou Hui;Jie Tang	8
+2013	Lu Liu;Jie Tang;Yu Cheng;Ankit Agrawal;Wei-keng Liao;Alok Choudhary	0
+2013	Sen Wu;Jimeng Sun;Jie Tang	5
+2013	Tiancheng Lou;Jie Tang	0
+2013	Tiancheng Lou;Jie Tang;John Hopcroft;Zhanpeng Fang;Xiaowen Ding	3
+2013	Yang Yang;Jianfei Wang;Yutao Zhang;Wei Chen;Jing Zhang;Honglei Zhuang;Zhilin Yang;Bo Ma;Zhanpeng Fang;Sen Wu;Xiaoxiao Li;Debing Liu;Jie Tang	3
+2013	Zhichun Wang;Juanzi Li;Jie Tang	9
+2013	Zhichun Wang;Juanzi Li;Yue Zhao;Rossi Setchi;Jie Tang	8
+2014	Jamal Yousaf;Juanzi Li;Lu Chen;Jie Tang;Xiaowen Dai	1
+2014	Yi Cai;Ho-fung Leung;Qing Li;Huaqing Min;Jie Tang;Juanzi Li	4
+2014	Zhilin Yang;Jie Tang;Bin Xu;Chunxiao Xing	3
