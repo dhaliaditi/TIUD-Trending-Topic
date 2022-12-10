@@ -1,2 +1,2 @@
 # TIUD-Trending-Topic
-This project uses a novel technique to portray the prominent Twitter users. 
+This project uses a novel technique to portray the prominent Twitter users. By focusing more on individuals' most recent behaviors and their connections with other users, we hope to identify influential people who exhibit the most interest in a predetermined query on a variety of issues (topics) at different times. We have utilized the Twitter SNAP and Coauthor (DBLP) datsets.
